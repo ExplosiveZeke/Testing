@@ -1,3 +1,5 @@
+
+<link href="styles.css" rel="stylesheet" type="text/css">
 document.addEventListener('DOMContentLoaded', function () {
     const darkModeToggle = document.getElementById('dark-mode-toggle');
     const body = document.body;
